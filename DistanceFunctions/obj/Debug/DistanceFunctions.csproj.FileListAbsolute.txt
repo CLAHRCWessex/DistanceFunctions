@@ -1,0 +1,5 @@
+\\isad.isadroot.ex.ac.uk\UOE\User\SharpDevelop Projects\DistanceFunctions\DistanceFunctions\bin\Debug\DistanceFunctions.dll
+\\isad.isadroot.ex.ac.uk\UOE\User\SharpDevelop Projects\DistanceFunctions\DistanceFunctions\bin\Debug\DistanceFunctions.pdb
+\\isad.isadroot.ex.ac.uk\UOE\User\SharpDevelop Projects\DistanceFunctions\DistanceFunctions\obj\Debug\DistanceFunctions.dll
+\\isad.isadroot.ex.ac.uk\UOE\User\SharpDevelop Projects\DistanceFunctions\DistanceFunctions\obj\Debug\DistanceFunctions.pdb
+\\isad.isadroot.ex.ac.uk\UOE\User\SharpDevelop Projects\DistanceFunctions\DistanceFunctions\obj\Debug\DistanceFunctions.csprojResolveAssemblyReference.cache

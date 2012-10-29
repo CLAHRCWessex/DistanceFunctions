@@ -1,0 +1,17 @@
+C:\Users\Tom\Documents\SharpDevelop Projects\DistanceFunctions\TestDistanceFunctions\bin\Debug\TestDistanceFunctions.dll
+C:\Users\Tom\Documents\SharpDevelop Projects\DistanceFunctions\TestDistanceFunctions\bin\Debug\TestDistanceFunctions.pdb
+C:\Users\Tom\Documents\SharpDevelop Projects\DistanceFunctions\TestDistanceFunctions\bin\Debug\DistanceFunctions.dll
+C:\Users\Tom\Documents\SharpDevelop Projects\DistanceFunctions\TestDistanceFunctions\bin\Debug\nunit.framework.dll
+C:\Users\Tom\Documents\SharpDevelop Projects\DistanceFunctions\TestDistanceFunctions\bin\Debug\DistanceFunctions.pdb
+C:\Users\Tom\Documents\SharpDevelop Projects\DistanceFunctions\TestDistanceFunctions\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tom\Documents\SharpDevelop Projects\DistanceFunctions\TestDistanceFunctions\obj\x86\Debug\TestDistanceFunctions.dll
+C:\Users\Tom\Documents\SharpDevelop Projects\DistanceFunctions\TestDistanceFunctions\obj\x86\Debug\TestDistanceFunctions.pdb
+\\isad.isadroot.ex.ac.uk\UOE\User\SharpDevelop Projects\DistanceFunctions\TestDistanceFunctions\bin\Debug\TestDistanceFunctions.dll
+\\isad.isadroot.ex.ac.uk\UOE\User\SharpDevelop Projects\DistanceFunctions\TestDistanceFunctions\bin\Debug\TestDistanceFunctions.pdb
+\\isad.isadroot.ex.ac.uk\UOE\User\SharpDevelop Projects\DistanceFunctions\TestDistanceFunctions\bin\Debug\DistanceFunctions.dll
+\\isad.isadroot.ex.ac.uk\UOE\User\SharpDevelop Projects\DistanceFunctions\TestDistanceFunctions\bin\Debug\nunit.framework.dll
+\\isad.isadroot.ex.ac.uk\UOE\User\SharpDevelop Projects\DistanceFunctions\TestDistanceFunctions\bin\Debug\DistanceFunctions.pdb
+\\isad.isadroot.ex.ac.uk\UOE\User\SharpDevelop Projects\DistanceFunctions\TestDistanceFunctions\bin\Debug\nunit.framework.xml
+\\isad.isadroot.ex.ac.uk\UOE\User\SharpDevelop Projects\DistanceFunctions\TestDistanceFunctions\obj\x86\Debug\TestDistanceFunctions.dll
+\\isad.isadroot.ex.ac.uk\UOE\User\SharpDevelop Projects\DistanceFunctions\TestDistanceFunctions\obj\x86\Debug\TestDistanceFunctions.pdb
+\\isad.isadroot.ex.ac.uk\UOE\User\SharpDevelop Projects\DistanceFunctions\TestDistanceFunctions\obj\x86\Debug\TestDistanceFunctions.csprojResolveAssemblyReference.cache

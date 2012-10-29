@@ -1,0 +1,17 @@
+\\isad.isadroot.ex.ac.uk\UOE\User\SharpDevelop Projects\DistanceFunctions\TestMatrixGenerator\bin\Debug\TestMatrixGenerator.exe
+\\isad.isadroot.ex.ac.uk\UOE\User\SharpDevelop Projects\DistanceFunctions\TestMatrixGenerator\bin\Debug\TestMatrixGenerator.pdb
+\\isad.isadroot.ex.ac.uk\UOE\User\SharpDevelop Projects\DistanceFunctions\TestMatrixGenerator\bin\Debug\ExcelDotNet.dll
+\\isad.isadroot.ex.ac.uk\UOE\User\SharpDevelop Projects\DistanceFunctions\TestMatrixGenerator\bin\Debug\ExcelDotNet.pdb
+\\isad.isadroot.ex.ac.uk\UOE\User\SharpDevelop Projects\DistanceFunctions\TestMatrixGenerator\obj\x86\Debug\TestMatrixGenerator.exe
+\\isad.isadroot.ex.ac.uk\UOE\User\SharpDevelop Projects\DistanceFunctions\TestMatrixGenerator\obj\x86\Debug\TestMatrixGenerator.pdb
+\\isad.isadroot.ex.ac.uk\UOE\User\SharpDevelop Projects\DistanceFunctions\TestMatrixGenerator\bin\Debug\DistanceFunctions.dll
+\\isad.isadroot.ex.ac.uk\UOE\User\SharpDevelop Projects\DistanceFunctions\TestMatrixGenerator\bin\Debug\DistanceFunctions.pdb
+\\isad.isadroot.ex.ac.uk\UOE\User\SharpDevelop Projects\DistanceFunctions\TestMatrixGenerator\bin\Debug\Microsoft.Office.Interop.Excel.dll
+\\isad.isadroot.ex.ac.uk\UOE\User\SharpDevelop Projects\DistanceFunctions\TestMatrixGenerator\bin\Debug\office.dll
+\\isad.isadroot.ex.ac.uk\UOE\User\SharpDevelop Projects\DistanceFunctions\TestMatrixGenerator\bin\Debug\Microsoft.Vbe.Interop.dll
+\\isad.isadroot.ex.ac.uk\UOE\User\SharpDevelop Projects\DistanceFunctions\TestMatrixGenerator\bin\Debug\Microsoft.Office.Interop.Excel.xml
+\\isad.isadroot.ex.ac.uk\UOE\User\SharpDevelop Projects\DistanceFunctions\TestMatrixGenerator\bin\Debug\office.xml
+\\isad.isadroot.ex.ac.uk\UOE\User\SharpDevelop Projects\DistanceFunctions\TestMatrixGenerator\obj\x86\Debug\TestMatrixGenerator.csprojResolveAssemblyReference.cache
+\\isad.isadroot.ex.ac.uk\UOE\User\SharpDevelop Projects\DistanceFunctions\TestMatrixGenerator\bin\Debug\TestMatrixGenerator.exe.config
+\\isad.isadroot.ex.ac.uk\UOE\User\SharpDevelop Projects\DistanceFunctions\TestMatrixGenerator\bin\Debug\LocalSearch.dll
+\\isad.isadroot.ex.ac.uk\UOE\User\SharpDevelop Projects\DistanceFunctions\TestMatrixGenerator\bin\Debug\LocalSearch.pdb
